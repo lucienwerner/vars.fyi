@@ -1,2 +1,2 @@
 # vars.fyi
-Vars blog 
+
