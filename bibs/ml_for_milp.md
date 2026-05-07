@@ -1,6 +1,6 @@
-# Machine Learning for Combinatorial Optimization — Concise Bibliography
+# Machine Learning for Combinatorial Optimization 
 
-## Core / Survey Papers
+## Survey Papers
 
 * [Cappart, Chételat, Khalil, Lodi, Morris, Veličković (2021)]. *Combinatorial Optimization and Reasoning with Graph Neural Networks*.(https://arxiv.org/abs/2102.09544)
   Reviews how GNNs encode combinatorial structure for exact solving, heuristics, and reasoning tasks.
@@ -8,33 +8,33 @@
 * [Bengio, Lodi, Prouvost (2018)]. *Machine Learning for Combinatorial Optimization: a Methodological Tour d'Horizon*.(https://arxiv.org/abs/1811.06128)
   Broad survey framing ML-for-CO as learning decision policies inside classical optimization pipelines.
 
-## Papers Provided
+## Papers I read
 
 * [Huang, Silva, Zhao, et al. (2024)]. *Learning to Solve Combinatorial Optimization Problems on Real-World Graphs in Linear Time*.(https://proceedings.mlr.press/v235/huang24f.html)
   Uses scalable graph learning methods to generalize CO solvers to large real-world graphs with near-linear inference cost.
 
-* [Paulus, et al. (2022). *Learning to Cut*.](https://arxiv.org/pdf/2203.02878)
+* [Paulus, et al. (2022)]. *Learning to Cut*.(https://arxiv.org/pdf/2203.02878)
   Uses ML to generate stronger cutting planes in integer programming.
 
-* [Eskandari, et al. (2022). *Exact Combinatorial Optimization with Graph Convolutional Neural Networks*.](https://arxiv.org/pdf/2302.09166)
+* [Eskandari, et al. (2022)]. *Exact Combinatorial Optimization with Graph Convolutional Neural Networks*.(https://arxiv.org/pdf/2302.09166)
   Combines GNN guidance with exact optimization to improve search efficiency while preserving optimality.
 
-* [Wang, Hua, Liu, et al. (2021). *A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs*.](https://arxiv.org/pdf/2111.06257)
+* [Wang, Hua, Liu, et al. (2021)]. *A Bi-Level Framework for Learning to Solve Combinatorial Optimization on Graphs*.(https://arxiv.org/pdf/2111.06257)
   Learns graph transformations that simplify downstream combinatorial optimization.
 
-* [Khalil, Dai, Zhang, Dilkina, Song (2019). *Learning to Branch*.](https://arxiv.org/pdf/2402.05501)
+* [Khalil, Dai, Zhang, Dilkina, Song (2019)]. *Learning to Branch*.(https://arxiv.org/pdf/2402.05501)
   Learns branching policies inside branch-and-bound to accelerate MILP solving.
 
-* [Kool, van Hoof, Welling (2018). *Attention, Learn to Solve Routing Problems!*.](https://arxiv.org/abs/1803.08475)
+* [Kool, van Hoof, Welling (2018)]. *Attention, Learn to Solve Routing Problems!*.(https://arxiv.org/abs/1803.08475)
   Replaced RNNs with attention models for stronger neural routing heuristics.
 
-* [Baptista, Poloczek (2018). *Bayesian Optimization of Combinatorial Structures*.](https://link.springer.com/content/pdf/10.1007/s10107-024-02130-y.pdf)
+* [Baptista, Poloczek (2018)]. *Bayesian Optimization of Combinatorial Structures*.(https://link.springer.com/content/pdf/10.1007/s10107-024-02130-y.pdf)
   Extends Bayesian optimization to large discrete combinatorial spaces using structured acquisition methods.
 
-* [Bello, Pham, Le, Norouzi, Bengio (2016). *Neural Combinatorial Optimization with Reinforcement Learning*.](https://arxiv.org/abs/1611.09940)
+* [Bello, Pham, Le, Norouzi, Bengio (2016)]. *Neural Combinatorial Optimization with Reinforcement Learning*.(https://arxiv.org/abs/1611.09940)
   Introduced pointer-network RL methods for routing problems such as TSP.
 
-## Important Missing Papers
+## Papers I haven't read
 
 * [Jin, Yan, Liu, Wang (2024). *A Unified Framework for Combinatorial Optimization Based on Graph Neural Networks*.](https://arxiv.org/abs/2406.13125)
   Attempts a general-purpose GNN framework spanning multiple combinatorial optimization classes.
@@ -60,7 +60,7 @@
 * [Vinyals, Fortunato, Jaitly (2015). *Pointer Networks*.](https://arxiv.org/abs/1506.03134)
   Introduced pointer architectures that enabled neural sequence-based combinatorial optimization.
 
-## Recent Promising Papers (2024–2025)
+## Recent Papers (2024–2025)
 
 * [Feng, Sun, Li, Talwalkar, Yang (2025). *A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization*.](https://arxiv.org/abs/2505.16952)
   Important benchmark paper evaluating whether modern ML-for-CO methods actually scale to industrial instances. ([huggingface.co](https://huggingface.co/papers/2505.16952?utm_source=chatgpt.com))
