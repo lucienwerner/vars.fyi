@@ -1,4 +1,4 @@
-c# Machine Learning for Combinatorial Optimization
+# Machine Learning for Combinatorial Optimization
 This an extensive bibliography with papers categorized by problem instance. Looks maintained too: 
 [https://github.com/Thinklab-SJTU/awesome-ml4co#optimal-power-flow](https://github.com/Thinklab-SJTU/awesome-ml4co#optimal-power-flow)
 
