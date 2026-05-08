@@ -17,7 +17,7 @@
 * [Zhang et al. (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0925231222014035). *A survey for solving mixed integer programming via machine learning*.
   Origin of a extensive, maintained bibliography: https://github.com/Thinklab-SJTU/awesome-ml4co
 
-  * [Scavuzzo, Aardal, Lodi, Yorke-Smith (2024)](https://arxiv.org/pdf/2402.05501). *Machine Learning Augmented Branch and Bound for Mixed Integer Linear Programming* 
+* [Scavuzzo, Aardal, Lodi, Yorke-Smith (2024)](https://arxiv.org/pdf/2402.05501). *Machine Learning Augmented Branch and Bound for Mixed Integer Linear Programming* 
   Very good, recent review of learning for Branch and Bound. Also includes discussion of cut plane selection 
 
 ## Papers I Have "Read"
@@ -78,7 +78,7 @@ NB: used GPT to help format these refs. Titles and hyperlinks matching could be 
 
 * [Zhhang, Zhang, Sun, Li, Gao (2025)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006641). *HTS-LB: Hypergraph Tree Search for Learning Branch*.
 
-* [Wang et al. (2024)](https://arxiv.org/pdf/2404.12638). **Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming
+* [Wang et al. (2024)](https://arxiv.org/pdf/2404.12638). *Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming*
 
 ## Solvers 
 * COPT (https://www.copt.de/). This is a chinese solver with 180 day commercial trial: https://www.shanshu.ai/copt
