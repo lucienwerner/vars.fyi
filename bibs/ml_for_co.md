@@ -1,6 +1,4 @@
 # Machine Learning for Combinatorial Optimization
-This an extensive bibliography with papers categorized by problem instance. Looks maintained too: 
-[https://github.com/Thinklab-SJTU/awesome-ml4co#optimal-power-flow](https://github.com/Thinklab-SJTU/awesome-ml4co#optimal-power-flow)
 
 ## TODO
 - Figure out what problem classes the GNN methods are best suited for
@@ -79,7 +77,7 @@ NB: used GPT to help format these refs. Titles and hyperlinks matching could be 
 * [Cantürk, Varol, Aydoğan, Özener (2025)](https://www.ijcai.org/proceedings/2025/1223). *Scalable Primal Heuristics Using Graph Neural Networks for Combinatorial Optimization*.
 
 * [Zhhang, Zhang, Sun, Li, Gao (2025)](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006641). *HTS-LB: Hypergraph Tree Search for Learning Branch*.
-* 
+
 * [Wang et al. (2024)](https://arxiv.org/pdf/2404.12638). **Learning to Cut via Hierarchical Sequence/Set Model for Efficient Mixed-Integer Programming
 
 ## Solvers 
@@ -91,3 +89,7 @@ NB: used GPT to help format these refs. Titles and hyperlinks matching could be 
   - Critique of implementation: https://github.com/ERGO-Code/HiGHS/discussions/1683
 * SimpleRose (https://simplerose.com/blog/running-cuopt-in-an-aws-eks-cluster-as-a-managed-node-group/)
 * Nvidia CuOPT (https://github.com/NVIDIA/cuopt)
+
+## Other
+Extensive bibliography with papers categorized by problem instance. Looks maintained too: https://github.com/Thinklab-SJTU/awesome-ml4co
+
